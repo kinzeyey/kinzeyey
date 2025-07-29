@@ -51,4 +51,4 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
 ## 🌐 Connect with Me
 
 - **Discord**: whenrealityshrinks
-- **GitHub**: [@kinzey](https://github.com/kinzey)
+- **GitHub**: [@kinzeyey](https://github.com/kinzeyey)
