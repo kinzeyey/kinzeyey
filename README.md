@@ -47,28 +47,8 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
 </div>
 
----
-
-## 🧑‍💻 Contribution
-
-<a href="https://github.com/oxince/oxince">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxince&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&hide_border=true" alt="GitHub Stats">
-</a>
-<a href="https://github.com/oxince/oxince">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxince&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</a>
-
----
-
-## 🚀 Activity & Streaks
-
-<a href="https://github.com/oxince">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxince&theme=radical&hide_border=true" alt="Streak Stats">
-</a>
-
----
 
 ## 🌐 Connect with Me
 
-- **Discord**: oxince
-- **GitHub**: [@oxince](https://github.com/oxince)
+- **Discord**: whenrealityshrinks
+- **GitHub**: [@kinzey](https://github.com/kinzey)
