@@ -48,6 +48,6 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
 
 ## 🌐 Connect with Me
 
-- **Discord**: whenrealityshrinks
+- **Discord**: [@whenrealityshrinks](https://discord.com/users/540427250894503988)
 - **GitHub**: [@kinzeyey](https://github.com/kinzeyey)
 - **Telegram**: [@k1nzey](https://t.me/k1nzey)
